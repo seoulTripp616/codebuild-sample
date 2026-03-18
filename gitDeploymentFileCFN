@@ -1,0 +1,9 @@
+template-file-path: driftdetection.yaml
+parameters:
+  SnsSubscriptionProtocol: email
+  CustomerManagedKey: ''
+  PrincipalOrgID: ''
+  ManagementAccountId: ''
+  MaximumExecutionFrequency: One_Hour
+  SnsSubscriptionEndpoint: yiwill@amazon.com
+tags: {}
