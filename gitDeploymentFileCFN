@@ -4,6 +4,6 @@ parameters:
   CustomerManagedKey: ''
   PrincipalOrgID: ''
   ManagementAccountId: ''
-  MaximumExecutionFrequency: One_Hour
+  MaximumExecutionFrequency: Three_Hours
   SnsSubscriptionEndpoint: yiwill@amazon.com
 tags: {}
